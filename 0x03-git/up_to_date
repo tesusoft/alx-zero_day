@@ -1,0 +1,5 @@
+#1. I used  git checkout master
+#2. I used git status
+#3. I used git fetch
+#4. I used git merge - this was to pull the update i did on github
+#5. Then before going to commit the update on up_to_date on to the master back to github
